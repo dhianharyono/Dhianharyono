@@ -1,6 +1,6 @@
 ### Hi! I'm Dhian. 👋
 
-- :office: Frontend Developer transitioning into AI-powered applications
+- :office: Frontend Developer & AI Enthusiast
 
 - :octocat: My Nickname : Beks
 
